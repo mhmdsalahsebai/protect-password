@@ -1,0 +1,21 @@
+{
+  "name": "protect-password",
+  "version": "1.0.3",
+  "description": "Secure password hashing and verification utilities using PBKDF2 and timingSafeEqual.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "password",
+    "hashing",
+    "security",
+    "pbkdf2",
+    "crypto"
+  ],
+  "author": "Mohamed Salah",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
